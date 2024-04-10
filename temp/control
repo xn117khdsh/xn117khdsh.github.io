@@ -1,0 +1,11 @@
+Package: com.xn117khdsh.p1neapple.zephyr
+Name: Zephyr Cracked (iOS 5-6)
+Section: Tweaks
+Version: 1.6.4-1
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
+Architecture: iphoneos-arm
+Description: Awesome swipe multitasking and gestures!
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.p1neapple.zephyr
+Author: xn117khdsh
+Maintainer: xn117khdsh
